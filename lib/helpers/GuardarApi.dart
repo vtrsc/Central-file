@@ -10,8 +10,8 @@ class GuardarProcessoApi {
     Map<String, String> cabecalhoToken = {
       "Content-Type": "application/json-patch+json",
       "accept": "/",
-      "usuario": "apparqcentral",
-      "senha": "ce!LRarDETXkdDo!rKNm",
+      "usuario": "",
+      "senha": "",
     };
 
     Map dadosProcesso = {
